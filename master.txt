@@ -1,1 +1,3 @@
 This is my 1st command
+ 
+i am making some changes in the rule of the thumb, please authenticate and then run for the glory.
